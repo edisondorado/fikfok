@@ -1,0 +1,1 @@
+module.exports.commentFilterTypes = ["likes", "replies", "createdAt"]
